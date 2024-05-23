@@ -20,4 +20,4 @@
 
 <h1 align="center">Education</h1>
 
-<img src="https://i.ibb.co/b6bv5Qd/Diploma-for-Java-Web-Developer.png" >
+
