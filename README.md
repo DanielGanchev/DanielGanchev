@@ -18,6 +18,6 @@
 <div height="80"></div>
 
 
-<h1 align="center">Education</h1>
+
 
 
