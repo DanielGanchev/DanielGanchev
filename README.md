@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielganchev&label=Profile%20views&color=0e75b6&style=flat" alt="danielganchev" /> </p>
 
-- 🔭 I’m currently working on **Inventory Management app**
+- 🔭 I’m currently working on **Working on smaller applications learning new features**
 
 - 🌱 I’m currently learning **React , Unreal Engine, Type Script**
 
